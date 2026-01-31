@@ -1,0 +1,5 @@
+{
+  "name": "HA Hetzner Cloud DNS Addon",
+  "url": "https://github.com/beckerj/ha-addons-le-hetzner-dns-fix/",
+  "maintainer": "beckerj <jb@private>"
+}
